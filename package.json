@@ -1,0 +1,29 @@
+{
+  "name": "foundershub",
+  "version": "1.0.0",
+  "description": "FoundersHUB - Where Passionate Builders Connect & Grow",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Static site - no build step required'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "founders",
+    "startups",
+    "entrepreneurs",
+    "saas",
+    "community",
+    "solopreneurs"
+  ],
+  "author": "FoundersHUB",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/foundershub.git"
+  },
+  "homepage": "https://foundershub.vercel.app",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
